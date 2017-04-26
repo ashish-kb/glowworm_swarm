@@ -1,0 +1,8 @@
+prefix=/home/ashish/catkin_ws_test/install
+
+Name: beginner_tut
+Description: Description of beginner_tut
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ashish/catkin_ws_test/install/lib 
+Requires: 
